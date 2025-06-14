@@ -99,9 +99,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gaz2NAdLrD4V_zJWnl9g-31" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="369" y="498" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="Gaz2NAdLrD4V_zJWnl9g-32" value="Propiedades" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="628" width="80" height="80" as="geometry" />
         </mxCell>
