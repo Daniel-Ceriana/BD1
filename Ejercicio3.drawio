@@ -1,28 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.5">
   <diagram name="Página-1" id="cUW0Cw-TYouhR0vvpUyP">
-    <mxGraphModel dx="783" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1507" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="e-mYyunEERbH04-v8ros-1" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;rounded=0;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="310" y="390" as="sourcePoint" />
-            <mxPoint x="391" y="390" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="422" y="440" />
-              <mxPoint x="270" y="235" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e-mYyunEERbH04-v8ros-2" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="320" y="358" as="sourcePoint" />
-            <mxPoint x="406" y="358" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="304" y="190" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="e-mYyunEERbH04-v8ros-4" value="Pacientes" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="230" y="240" width="80" height="80" as="geometry" />
         </mxCell>
@@ -157,6 +138,33 @@
               <mxPoint x="360" y="350" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="e-mYyunEERbH04-v8ros-29" value="Se interna en" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="324" y="260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e-mYyunEERbH04-v8ros-30" value="Atendido por" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="300" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e-mYyunEERbH04-v8ros-31" value="Atiende a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="450" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e-mYyunEERbH04-v8ros-33" value="Ejerce" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e-mYyunEERbH04-v8ros-34" value="Doc-esp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="600" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e-mYyunEERbH04-v8ros-35" value="Pueden ser" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e-mYyunEERbH04-v8ros-36" value="cumple" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="318" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e-mYyunEERbH04-v8ros-37" value="trabaja en" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="408" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e-mYyunEERbH04-v8ros-38" value="Emp-turno" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="528" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
